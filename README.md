@@ -13,3 +13,17 @@ I'm Enes. I'm a student at Istanbul Technical University, working on :robot: rob
 :e-mail: [mail](mailto:ensdmrg@gmail.com)<br>
 :man: [linkedin](https://www.linkedin.com/in/enesdemirag)<br>
 :computer: [blog](http://enesdemirag.github.io)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=enesdemirag&show_icons=true" alt="enesdemirag"/></p>
+
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="32" height="32"/> &nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="32" height="32"/> &nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="32" height="32"/> &nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="32" height="32"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="64" height="32"/> &nbsp;
+<img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="64" height="32"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="64" height="32"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="64" height="32"/>
