@@ -14,7 +14,9 @@ I'm Enes. I'm a student at Istanbul Technical University, working on :robot: rob
 :man: [linkedin](https://www.linkedin.com/in/enesdemirag)<br>
 :computer: [blog](http://enesdemirag.github.io)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=enesdemirag&show_icons=true" alt="enesdemirag"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=enesdemirag&show_icons=true&include_all_commits=true&count_private&hide_title=true" alt="enesdemirag"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesdemirag&hide=jupyter%20notebook,javascript&layout=compact" alt= "enesdemirag"/> </p>
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="32" height="32"/> &nbsp;
