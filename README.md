@@ -4,7 +4,7 @@ I'm Enes. I'm a senior undergraduate student at Istanbul Technical University, s
 
 [![email](https://img.shields.io/badge/mail-blue?style=flat&logo=gmail)](mailto:ensdmrg@gmail.com) <br>
 [![linkedin](https://img.shields.io/badge/linkedin-red?style=flat&logo=linkedin)](https://www.linkedin.com/in/enesdemirag) <br>
-[![blog](https://img.shields.io/badge/blog-yellow?style=flat&logo=medium)](http://enesdemirag.github.io) <br>
+[![blog](https://img.shields.io/badge/blog-yellow?style=flat&logo=medium)](https://ensdmrg.medium.com/) <br>
 
 #### I mainly work with these tools
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
