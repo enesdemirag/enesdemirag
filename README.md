@@ -1,21 +1,21 @@
 ### Hi there 👋
 
-I'm Enes. I'm a senior undergraduate student at Istanbul Technical University, studing Electronics and Communication Engineering. Also I'm working as a part-time Software Engineer at [Baykar Savunma](https://www.baykarsavunma.com/index.php). I'm mostly interested in :robot: robotics and :camera: computer vision. 
+I'm Enes. I'm a senior undergraduate student at Istanbul Technical University, studying Electronics and Communication Engineering. Also I'm working as a part-time Software Engineer at [Baykar Savunma](https://www.baykarsavunma.com/index.php). I'm mostly interested in :robot: robotics and :camera: computer vision. 
 
 [![email](https://img.shields.io/badge/mail-blue?style=flat&logo=gmail)](mailto:ensdmrg@gmail.com) <br>
 [![linkedin](https://img.shields.io/badge/linkedin-red?style=flat&logo=linkedin)](https://www.linkedin.com/in/enesdemirag) <br>
 [![blog](https://img.shields.io/badge/blog-yellow?style=flat&logo=medium)](https://ensdmrg.medium.com/) <br>
+[![stats](https://img.shields.io/badge/stats-green?style=flat&logo=github)](https://profile-summary-for-github.com/user/enesdemirag) <br>
 
 #### I mainly work with these tools
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="32" height="32"/> &nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="32" height="32"/> &nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="32" height="32"/> &nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="32" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
 <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="64" height="32"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="opengl" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="64" height="32" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="64" height="32" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="64" height="32"/> &nbsp;
