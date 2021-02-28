@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Enes. I'm a senior undergraduate student at Istanbul Technical University, studying Electronics and Communication Engineering. Also I'm working as a part-time Software Engineer at [Baykar Savunma](https://www.baykarsavunma.com/index.php). I'm mostly interested in :robot: robotics and :camera: computer vision. 
+I'm Enes. Computer Engineering Master's student at Istanbul Technical University, mostly interested in robotics and computer vision. 
 
 [![email](https://img.shields.io/badge/mail-blue?style=flat&logo=gmail)](mailto:ensdmrg@gmail.com) <br>
 [![linkedin](https://img.shields.io/badge/linkedin-red?style=flat&logo=linkedin)](https://www.linkedin.com/in/enesdemirag) <br>
