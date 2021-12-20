@@ -9,8 +9,9 @@ I'm Enes. Computer Engineering Master's student at Istanbul Technical University
 
 #### I mainly work with these tools
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/c-program.svg" alt="c" width="32" height="32"/> &nbsp;
+<img src="https://www.svgrepo.com/show/353528/c.svg" alt="c" width="32" height="32"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="32" height="32"/> &nbsp;
+<img src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="csharp" width="32" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
 <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="64" height="32"/> &nbsp;
