@@ -14,9 +14,6 @@ I'm Enes. MLOps Engineer at [@chooch](https://github.com/chooch-ai) and Computer
 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="64" height="32"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="64" height="32"/> &nbsp;
 <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="64" height="32"/> &nbsp;
-<img src="https://www.khronos.org/assets/images/api_logos/opengl.svg" alt="opengl" width="64" height="32"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="64" height="32" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="64" height="32"/> &nbsp;
